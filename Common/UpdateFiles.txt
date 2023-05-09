@@ -9,6 +9,7 @@ monster_toejammer_undof entity Monsters/Monster_toejammer_undof
 monster_phangler_undof entity Monsters/Monster_phangler_undof
 monster_thrumble_undof entity Monsters/Monster_thrumble_undof
 monster_stogg_undof entity Monsters/Monster_stogg_undof
+monster_gumtromp entity Monsters/Monster_gumtromp
 
 eggs sprites-d eggs
 icons sprites-d icons
