@@ -144,6 +144,7 @@ Monsters/Monster_blasoom=Monsters/Monster_blasoom 0
 Monsters/Monster_punkleton_young=Monsters/Monster_punkleton 17
 
 
+Monsters/Monster_punkleton= 0
 Monsters/Monster_stogg_undof= 0
 Monsters/Monster_rootitoot= 0
 Monsters/Monster_pummel= 0
