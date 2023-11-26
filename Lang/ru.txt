@@ -2113,8 +2113,8 @@ str_class_Supernatural=Сверхъестественный
 str_class_Supernatural-r=Сверхъестественный (Редкий)
 str_class_Celestial=Небесный
 str_class_Celestial-s=Сверхънебесный
-str_class_Dipsters=Дипстер
-str_class_Dipsters-r=Дипстер (Редкий)
+str_class_Dipster=Дипстер
+str_class_Dipster-r=Дипстер (Редкий)
 str_class_Legendary=Легендарный
 str_class_Legendary-r=Легендарный (Редкий)
 str_class_Lost=Заблудший
@@ -2244,6 +2244,7 @@ str_setting_zoomBTN=Ползунок приближения
 str_setting_notifN=Уведомления
 str_setting_EF=Пердёж слона
 str_setting_ambient=Фоновые звуки
+str_setting_specialBlend=3Д звук
 
 
 (((Уровень)))
@@ -2363,6 +2364,7 @@ btn_breed=Вывести
 btn_repeat=Повторить
 btn_bake=Приготовить
 btn_craft=Создать
+btn_mash=Измельчить
 btn_stars=Звездогляд
 btn_prev=Предыдущий
 btn_next=Следующий
