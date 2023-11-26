@@ -9,7 +9,7 @@ Flower_blue 33 flowers
 Fruit_apple 10 flowers
 Berries 10 flowers
 ;
-Island_EM: 60 150
+Island_EM: 75 150
 Flower_red 10 flowers
 Flower_yellow 10 flowers
 Flower_blue 15 flowers

@@ -1,4 +1,5 @@
-sdfghjkfgdfarf
+sdfghjkfgdfgfffffffffff78
+
 
 desert_midi midi-d
 desert_sound audio-d Desert
@@ -8,7 +9,6 @@ desert_scene scene-d Desert
 ti_scene scene-d TI
 gm_scene scene-d GM
 
-gm scene GM
 
 
 
