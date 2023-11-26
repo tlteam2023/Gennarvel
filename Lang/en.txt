@@ -1140,6 +1140,7 @@ goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 str_setting_credits=Credits
+str_setting_spacialBlend=3D Sound
 
 str_credits_main=T.L.L. by:
 str_credits_execProd=Support:
