@@ -815,6 +815,13 @@ str_extra=Extra
 str_dunes_release=Welcome to Archaic Dunes!
 str_dunes_desc=This island, formerly thought to have been inaccessible, the power of the Festival of Yay has allowed the Skyship to travel here! 
 str_dunes_skyship=Teleport to Archaic Dunes? This will encase the Monster in sand.
+Monsters/Monster_scaratar_dunes=Scaratar (Encased)
+Monsters/Monster_scaratar_dunes_bio=bio
+Monsters/Monster_buzzinga_dunes=Buzzinga (Encased)
+Monsters/Monster_buzzinga_dunes_bio=bio
+Monsters/Monster_congle_dunes=Congle (Encased)
+Monsters/Monster_willisp=Willisp
+Monsters/Monster_willisp_bio=When the sands now known as the Archaic Dunes were first found, they were desolate as could be. However, this was soon to change. The lost Titanling Willisp found itself here, in an endless sea of copper sand. Using its potent magic, it created sand sculptures of monsters,and pulled monster spirits from across space and time to inbue them into the sandstone forms. Unfortunately, it fell short of brining its companions to life, but with the power of Enchanted Dew... who knows what YOU could do...
 
 diamonds - <color=#4EFFF5>
 coins - <color="yellow">
