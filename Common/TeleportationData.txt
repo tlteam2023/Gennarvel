@@ -34,6 +34,7 @@ Monsters/Monster_knife= 1000
 Monsters/Monster_fleechwurm_undof= 1000
 Monsters/Monster_wubbox_undof= 1000
 Monsters/Monster_wubbox_rare_undof= 1000
+Monsters/Monster_jobo= 1000
 ;
 EM 3600 4
 Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
