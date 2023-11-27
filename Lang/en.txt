@@ -1206,6 +1206,8 @@ str_costume_gumtromp_rare_christmas=Presentable Hat
 str_costume_keytrus_gift=Sweet & Sour Gift
 str_costume_keytrus_deluxe=Signore Pomodoro
 
+str_costume_keytrus_rare_sucker=Sucker for Yay
+
 str_costume_marshflamo_christmas=Yool's Little Helper
 
 str_costume_koodahcne_christmas=Sweeter
