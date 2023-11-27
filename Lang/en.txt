@@ -1146,6 +1146,86 @@ goal_designerMode=Try out the <color="green">Path Designer Mode.
 goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
+----Costumes----
+str_costume_tj_1=There's always room
+str_costume_tj_2=Slimy Stache
+str_costume_tj_3=Legal alien
+
+str_costume_yap_1=Super special density
+str_costume_yap_2=Or so help me!
+str_costume_yap_darkisland=Crossover
+
+str_costume_oak_1=Doc Oak
+str_costume_oak_2=Effective Disguise
+
+str_costume_pb_rare=Like Fool's Gold Dust
+
+str_costume_quibble_dark=Dark Mode
+
+str_costume_banno_crabs=MONEY!
+
+str_costume_spunge_bob=Rusty Spunge
+
+str_costume_tweedle_blue=Chill Chick
+
+str_costume_wadee_OG=Of free flight I'm dreaming
+str_costume_wadee_squidward=Burgundy Fog
+
+str_costume_stoopa_candy=Sweet Staff
+
+str_costume_dandi_fire=Hot Chick
+
+str_costume_floot_fruit=Fruit Fly
+
+str_costume_frond_bald=Brave and Bald
+str_costume_frond_red=Cerberus Toy
+str_costume_frond_bow=Pretty and Pampered
+str_costume_frond_emo=Ring-Ring!
+
+str_costume_varrow_kromer=Big Shot
+
+str_costume_leshy_mario=Plumber of the Woods
+str_costume_leshy_gentleman=Timber Tuxedo
+
+str_costume_tort_christmas=Fir Icing
+
+str_costume_stogg_christmas=Tianshan
+
+str_costume_cookie_christmas=Dapper Bow
+
+str_costume_keytrus_gift=Sweet & Sour Gift
+str_costume_keytrus_deluxe=Signore Pomodoro
+
+str_costume_marshflamo_christmas=Yool's Little Helper
+
+str_costume_koodahcne_christmas=Sweeter
+
+str_costume_nogg_candy=Rock Candy
+
+str_costume_phang_candy=Mistle-Vox
+
+str_costume_thrumble_christmas=PomPom Fur Outfit
+
+str_costume_tj_socks=Socks of Splendor
+
+str_costume_knife_christmas=Cozy Cover
+
+str_costume_kanya_rare_christmas=Krampus Ponchloac
+
+str_costume_kanya_christmas=Light Bright
+
+str_costume_fwog_halloween=All Squashed up
+
+str_costume_fwog_rare_christmas=Jingle of the Yay
+
+str_costume_fleech_christmas=Grand Moroze
+
+str_costume_knott_1=Džezva Fezz
+
+
+----Credits----
+
+
 str_setting_credits=Credits
 str_setting_spacialBlend=3D Sound
 
