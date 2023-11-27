@@ -1148,6 +1148,15 @@ goal_designerMode=Try out the <color="green">Path Designer Mode.
 goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
+----Seasons----
+str_season_yay=Festival of Yay
+str_season_spook=Spooktacle
+str_season_love=Season of Love
+str_season_egg=Eggstravaganza
+str_season_summer=Summer Song
+
+-add aux as needed
+
 ----Costumes----
 str_costumes=Costumes
 str_recipe=Recipe
