@@ -1201,6 +1201,8 @@ str_costume_stogg_christmas=Tianshan
 
 str_costume_cookie_christmas=Dapper Bow
 
+str_costume_gumtrom_rare_christmas=Presentable Hat
+
 str_costume_keytrus_gift=Sweet & Sour Gift
 str_costume_keytrus_deluxe=Signore Pomodoro
 
@@ -1228,8 +1230,9 @@ str_costume_fwog_rare_christmas=Jingle of the Yay
 
 str_costume_fleech_christmas=Grand Moroze
 
-str_costume_knott_1=Džezva Fezz
+str_costume_knott_1=Dzezva Fezz
 
+str_costume_knott_4=TooOot
 
 ----Credits----
 
