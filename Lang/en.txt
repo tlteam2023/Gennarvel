@@ -1234,6 +1234,9 @@ str_costume_knott_1=Dzezva Fezz
 
 str_costume_knott_4=TooOot
 
+
+str_costume_potGM_christmas=Brotherhood of Stars
+
 ----Credits----
 
 
