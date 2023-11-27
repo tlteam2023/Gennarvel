@@ -71,80 +71,80 @@ costume_2 str_costume_leshy_gentleman Catfur=10,Fabric=4
 ;
 Monsters/Monster_sprinklate
 a0 str_costume_default
-Christmas_1 str_costume_tort_christmas Seaweed=5,Flower_blue=7,Flower_yellow=7,Candycorn=4,diamonds=2
+Christmas_1 str_costume_tort_christmas Ticket=1 Season_yay:Seaweed=5,Flower_blue=7,Flower_yellow=7,Candycorn=4,diamonds=2 Frame:SeasonalFrame
 ;
 Monsters/Monster_stogg_undof
 a0 str_costume_default
-Costume1 str_costume_stogg_christmas Flower_blue=7,Flower_yellow=7,Foam=7
+Costume1 str_costume_stogg_christmas Ticket=1 Season_yay:Flower_blue=7,Flower_yellow=7,Foam=7 Frame:SeasonalFrame
 ;
 Monsters/Monster_brasscuit
 a0 str_costume_default
-Costume str_costume_cookie_christmas Flower_red=12,Fabric=16
+Costume str_costume_cookie_christmas Ticket=1 Season_yay:Flower_red=12,Fabric=16 Frame:SeasonalFrame
 ;
 Monsters/Monster_keytrus
 a0 str_costume_default
-Costume1 str_costume_keytrus_gift Flower_yellow=12,Fabric=10,Log=10
-Deluxe_1 str_costume_keytrus_deluxe Ticket=1 GoldFrame
+Costume1 str_costume_keytrus_gift Ticket=1 Season_yay:Flower_yellow=12,Fabric=10,Log=10 Frame:SeasonalFrame
+Deluxe_1 str_costume_keytrus_deluxe Ticket=1 Frame:GoldFrame
 ;
 Monsters/Monster_keytrus_rare
 a0 str_costume_default
-Costume1 str_costume_keytrus_rare_sucker diamonds=10
+Costume1 str_costume_keytrus_rare_sucker Ticket=1 Season_yay:diamonds=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_marshflamo
 a0 str_costume_default
-Costume1 str_costume_marshflamo_christmas Flower_red=5,Log=10,Goldegg=8
+Costume1 str_costume_marshflamo_christmas Ticket=1 Season_yay:Flower_red=5,Log=10,Goldegg=8 Frame:SeasonalFrame
 ;
 Monsters/Monster_koodahcane
 a0 str_costume_default
-Costume str_costume_koodahcne_christmas Flower_red=10,Fabric=10
+Costume str_costume_koodahcne_christmas Ticket=1 Season_yay:Flower_red=10,Fabric=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_noggin_undof
 a0 str_costume_default
-costume_1 str_costume_nogg_candy Candycorn=7
+costume_1 str_costume_nogg_candy Ticket=1 Season_spook:Candycorn=7 Frame:SeasonalFrame
 ;
 Monsters/Monster_phangler_undof
 a0 str_costume_default
-costume_1 str_costume_phang_candy Berries=6
+costume_1 str_costume_phang_candy Ticket=1 Season_yay:FBerries=6 Frame:SeasonalFrame
 ;
 Monsters/Monster_thrumble_undof
 a0 str_costume_default
-Costume0 str_costume_thrumble_christmas Berries=6,Flower_red=10,Flower_blue=10,Fabric=10
+Costume0 str_costume_thrumble_christmas Ticket=1 Season_yay:Berries=6,Flower_red=10,Flower_blue=10,Fabric=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_toejammer_undof
 a0 str_costume_default
-costume_1 str_costume_tj_socks Flower_red=10,Flower_yellow=4,Fabric=10
+costume_1 str_costume_tj_socks Ticket=1 Season_yay:Flower_red=10,Flower_yellow=4,Fabric=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_knife
 a0 str_costume_default
-christmas str_costume_knife_christmas Flower_red=10,Flower_yellow=10,Fabric=10,Berries=2
+christmas str_costume_knife_christmas Ticket=1 Season_yay:Flower_red=10,Flower_yellow=10,Fabric=10,Berries=2 Frame:SeasonalFrame
 ;
 Monsters/Monster_gumtromp_rare
 a0 str_costume_default
-christmas str_costume_gumtromp_rare_christmas diamonds=5
+christmas str_costume_gumtromp_rare_christmas Ticket=1 Season_yay:diamonds=5 Frame:SeasonalFrame
 ;
 Monsters/Monster_gobstomper_rare
 a0 str_costume_default
-christmas str_costume_jawbreaker_rare_christmas diamonds=10
+christmas str_costume_jawbreaker_rare_christmas Ticket=1 Season_yay:diamonds=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_kayna_rare_undof
 a0 str_costume_default
-christmas str_costume_kanya_rare_christmas Flower_red=10,Flower_blue=10,Fabric=10
+christmas str_costume_kanya_rare_christmas Ticket=1 Season_yay:Flower_red=10,Flower_blue=10,Fabric=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_kayna_undof
 a0 str_costume_default
-christmas str_costume_kanya_christmas diamonds=20
+christmas str_costume_kanya_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
 ;
 Monsters/Monster_fwog_undof
 a0 str_costume_default
-costume_1 str_costume_fwog_halloween diamonds=20
+costume_1 str_costume_fwog_halloween Ticket=1 Season_spook:diamonds=20 Frame:SeasonalFrame
 ;
 Monsters/Monster_fwog_undof_rare
 a0 str_costume_default
-christmas str_costume_fwog_rare_christmas diamonds=20
+christmas str_costume_fwog_rare_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
 ;
 Monsters/Monster_fleechwurm_undof
 a0 str_costume_default
-costume str_costume_fleech_christmas diamonds=20
+costume str_costume_fleech_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
 ;
 Monsters/Knott_2
 a0 str_costume_default
@@ -156,7 +156,7 @@ costume_1 str_costume_knott_4 Flower_blue=10,diamonds=5
 ;
 Monsters/Monster_potbellyGM
 a0 str_costume_default
-christmas str_costume_potGM_christmas diamonds=20
+christmas str_costume_potGM_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
 ;
 
 
