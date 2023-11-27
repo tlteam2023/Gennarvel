@@ -1043,13 +1043,14 @@ btn_mailbox=Mailbox
 str_taptocollectrewards=Tap them to collect
 str_mailbox_reward_collected=Collected
 
+
+
 str_setting=Settings
 str_setting_zoomBTN=Use zoom slider
 str_setting_notifN=Send notifications
 str_setting_EF=Elephant Fart
 str_setting_ambient=Ambient sounds
-str_doubleRewards=DOUBLE
-\nREWARDS!
+str_doubleRewards=DOUBLE\nREWARDS!
 
 btn_shop_monsters=Monsters
 btn_shop_decorations=Decorations
@@ -1125,6 +1126,7 @@ btn_craft=Craft
 btn_mash=Mash
 btn_minigames=Minigames
 btn_activate=Activate
+btn_costume=Costumes
 
 goal_breed_buy=Buy and place a <color="green"><entityName>
 goal_breed_an=Breed and place an <color="green"><entityName>
@@ -1147,6 +1149,12 @@ goal_placeDeco=Buy and place <color="green">"<entityName>".
 goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 ----Costumes----
+str_costumes=Costumes
+str_recipe=Recipe
+
+
+str_costume_default=No Costume
+
 str_costume_tj_1=There's always room
 str_costume_tj_2=Slimy Stache
 str_costume_tj_3=Legal alien
