@@ -1201,7 +1201,7 @@ str_costume_stogg_christmas=Tianshan
 
 str_costume_cookie_christmas=Dapper Bow
 
-str_costume_gumtrom_rare_christmas=Presentable Hat
+str_costume_gumtromp_rare_christmas=Presentable Hat
 
 str_costume_keytrus_gift=Sweet & Sour Gift
 str_costume_keytrus_deluxe=Signore Pomodoro
