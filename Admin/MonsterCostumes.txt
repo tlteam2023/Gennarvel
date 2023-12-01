@@ -112,7 +112,7 @@ Costume0 str_costume_thrumble_christmas Ticket=1 Season_yay:Berries=6,Flower_red
 ;
 Monsters/Monster_toejammer_undof
 a0 str_costume_default
-costume_1 str_costume_tj_socks Ticket=1 Season_yay:Flower_red=10,Flower_yellow=4,Fabric=10 Frame:SeasonalFrame
+costume_1 str_costume_tj_socks Flower_red=10,Flower_yellow=4,Fabric=10
 ;
 Monsters/Monster_knife
 a0 str_costume_default
