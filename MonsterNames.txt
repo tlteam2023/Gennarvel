@@ -1492,6 +1492,7 @@ Henge-Stone
 Molle
 Armount
 Groundy
+Bongolith
 ;
 Monsters/Monster_noggin_rare_undof,Monsters/Monster_noggin_rare
 Loge
