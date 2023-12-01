@@ -1221,13 +1221,13 @@ str_costume_marshflamo_christmas=Yool's Little Helper
 
 str_costume_koodahcne_christmas=Sweeter
 
-str_costume_nogg_candy=Rock Candy
+str_costume_nogg_candy=Sucrose Helm
 
 str_costume_phang_candy=Mistle-Vox
 
 str_costume_thrumble_christmas=PomPom Fur Outfit
 
-str_costume_tj_socks=Socks of Splendor
+str_costume_tj_socks=Training Attire
 
 str_costume_knife_christmas=Cozy Cover
 
