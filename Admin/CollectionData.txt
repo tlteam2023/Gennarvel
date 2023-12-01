@@ -133,6 +133,7 @@ Monsters/Monster_meduza
 ;
 Candy:
 Monsters/Monster_toejammer_undof
+Monsters/Monster_toejammer_rare_undof
 Monsters/Monster_noggin_undof
 Monsters/Monster_noggin_rare_undof
 Monsters/Monster_kayna_undof
