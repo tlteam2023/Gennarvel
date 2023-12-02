@@ -250,7 +250,7 @@ Monsters/Monster_mimic_young_bio=Данные отсутствуют. Прихо
 
 
 (((Огненные)))
-Monsters/Monster_kayna=Лаватёка
+Monsters/Monster_kayna=Фитилико
 Monsters/Monster_kayna_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_kayna_rare=Редкая Лаватёка
 Monsters/Monster_kayna_rare_bio=Данные отсутствуют. Приходите позже.
