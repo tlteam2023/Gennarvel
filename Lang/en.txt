@@ -1233,7 +1233,7 @@ str_costume_knife_christmas=Cozy Cover
 
 str_costume_kanya_rare_christmas=Krampus Ponchloac
 
-str_costume_kanya_christmas=Light Bright
+str_costume_kanya_christmas=Fir Freshener
 
 str_costume_fwog_halloween=All Squashed up
 
