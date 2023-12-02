@@ -21,7 +21,7 @@ Monsters/Monster_potbelly_rare_bio=Данные отсутствуют. Прих
 Monsters/Monster_potbelly_young=Юный Брюшок
 Monsters/Monster_potbelly_young_bio=Играть намного веселее с двумя головами! Юный Брюшок - лучший игрок в любой стратегической игре, благодаря двойной мощи мозга. Но к несчастью для других мостро-малышей, если ноль умножить на два, то всё равно выйдет ноль.
 
-Monsters/Monster_noggin=Бонголит или Ритмокоп Комок, Ондр выбирайте.
+Monsters/Monster_noggin=Ритмокоп
 Monsters/Monster_noggin_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_noggin_rare=Редкий Барабамень
 Monsters/Monster_noggin_rare_bio=Данные отсутствуют. Приходите позже.
