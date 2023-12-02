@@ -548,13 +548,13 @@ Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these
 Monsters/Monster_kayna_undof=<ref>Monsters/Monster_kayna
 Monsters/Monster_kayna_undof_bio=The ancient Kayna was long thought lost to an enigmatic event in monster antiquity. A solitary specimen encased in amber was rescued on Tribal Island. It's true, but only recently did a new generation of these beings begin to appear, beckoned by the mysterious call of Relics resonating deep within the world's volcanic core. Now this feisty Fire Elemental is ready to play its part in restoring the glory of its powerful Element in the Monster World.
 
-Monsters/Monster_kayna_rare_undof=Rare Kayna
+Monsters/Monster_kayna_rare_undof=Rare Wicka
 Monsters/Monster_kayna_rare_undof_bio=Bearers of the oldest Element of all, Rare Kaynas are an ancient breed from which all their Common cousins have sprung. Their intricate, tattoo-like carvings are bestowed upon them with great honor to represent their impressive age and crowing wisdom, eon after eon; you can imagine that the oldest Rare Kaynas are quite a sight! Yet no matter how old the original Fire Rare gets, the burning glow of the Fire Element never dims.
 
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
 
-Monsters/Monster_noggin_rare_undof=Rare Noggin
+Monsters/Monster_noggin_rare_undof=Rare Burrythm
 Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
 
 Monsters/Monster_fwog_undof=Fwog
