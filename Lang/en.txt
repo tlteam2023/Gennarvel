@@ -244,7 +244,7 @@ Monsters/Monster_spurrit_desert=<ref>Monsters/Monster_spurrit
 Monsters/Monster_spurrit_desert_bio=Huzzah? Huz-AAAAGH! This intreped explorer, fascinated by these ancient ruins, seems to have found some trouble with local avian life. While the Vullturs are harmless, Spurrit still freezes up at the sound of their shriek, not even letting out a characteristic yelp.
 
 
-Monsters/Monster_toejammer_rare=Rare Toe Jammer
+Monsters/Monster_toejammer_rare=Rare Floodbud
 Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known partygoer, this rare variant is far more accustomed to stay at home experiences, especially of the snacking kind. With some handy snackholding pegs included, there's no adventure the Rare Toe Jammer can't handle- from the comfort of a couch that is.
 
 
