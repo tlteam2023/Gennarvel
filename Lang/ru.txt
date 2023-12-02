@@ -2164,7 +2164,7 @@ str_popup_unlock=Обнаружен монстр <name>
 str_lvl=Ур:
 str_lvlMax=Максимум
 str_noEmpty=Назови монстра
-str_stats=Вид: <species>\nКласс: <class>\nСтавка: <rate>\nМаксимум: <max>\nEgg: <egg>
+str_stats=Вид: <species>\nКласс: <class>\nСтавка: <rate>\nМаксимум: <max>
 str_locked=???
 str_extra=Дополнительное
 
