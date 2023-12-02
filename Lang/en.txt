@@ -807,9 +807,9 @@ str_unlocked=You have unlocked:
 str_unlockedatLevel=Unlocked at level: 
 str_locked=???
 str_TeleportUnavailable=Not available on this island
-str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>
+str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>\nEgg: <egg>
 str_stats_castle=Beds: <bedsOccupied>\<bedsAvailable>
-str_stats_candy=Species: <species>\nClass: <class>\nBeds: <beds>
+str_stats_candy=Species: <species>\nClass: <class>\nBeds: <beds>\nEgg: <egg>
 str_extra=Extra
 
 str_dunes_release=Welcome to Archaic Dunes!
