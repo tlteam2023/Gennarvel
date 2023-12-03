@@ -449,8 +449,8 @@ Monsters/Monster_psychic_bio=Macrocranium bio
 Monsters/Monster_faerie=Chordyrid
 Monsters/Monster_faerie_bio=Chordyrid bio
 
-Structures/Structure_breeding=Breeding Structure
-Structures/Structure_breeding_bio=Breeding Structure bio
+Structures/Structure_breeding=Splicer
+Structures/Structure_breeding_bio=Splicer bio
 
 <Structures/Structure_breeding_undof3>
 <Structures/Structure_breeding_undof3_bio>
@@ -465,26 +465,26 @@ Structures/Structure_breeding_undof3=Sweetened Breeding Structure
 Structures/Structure_breeding_undof3_bio=Despite the faster wait times of the Enhanced Breeding Structure, breeding can still be a quite a tricky matter... Luckily, the newly Sweetened Breeding Structure can help! Upgraded through various items & resources from the Candy Island, the highly-efficient Sweetened Breeding Structure reduces breeding waiting times by 50%, more than ever before!
 
 
-Structures/Structure_castle_undof=Basic Castle
+Structures/Structure_castle_undof=Small Hotel
 Structures/Structure_castle_undof_bio=Singing takes a lot of energy, and monsters need sleep! The Basic Castle really isn't very comfy at all; the rain gets through, it's drafty, and cramped.
 
-Structures/Structure_castle_undof2=Modest Castle
+Structures/Structure_castle_undof2=Modest Hotel
 Structures/Structure_castle_undof2_bio=It's great to have a good night's sleep! The Modest Castle is dry and warm, but small.
 
-Structures/Structure_castle_undof3=Comfortable Castle
+Structures/Structure_castle_undof3=Comfortable Hotel
 Structures/Structure_castle_undof3_bio=Ah, some elbow room! The Comfortable Castle even has indoor plumbing.	
 
-Structures/Structure_castle_undof4=Spacious Castle
+Structures/Structure_castle_undof4=Spacious Hotel
 Structures/Structure_castle_undof4_bio=The Spacious Castle has lots of room for monsters to relax and refresh.
 
-Structures/Structure_castle_undof5=Luxurious Castle
+Structures/Structure_castle_undof5=Luxurious Hotel
 Structures/Structure_castle_undof5_bio=	It just doesn't get any better than this! The Luxurious Castle has everything a monster might enjoy, from cold slime pools to dark, nasty dungeons. Who would ever want to leave?
 
-Structures/Structure_castle_undof6=Extravagant Castle
+Structures/Structure_castle_undof6=Extravagant Hotel
 Structures/Structure_castle_undof6_bio=This state of the art domicile goes way overboard when it comes to spoiling the monsters...  Personal assistants to wait on them hand and foot (at least those that have hands and feet), the spiffiest sound systems on the monster market...  They've got it made in the shade.
 
-Structures/Structure_bakery=Outer Island Bakery
-Structures/Structure_bakery_bio=Bakery bio
+Structures/Structure_bakery=Outer Island Cooker
+Structures/Structure_bakery_bio=Cooker bio
 
 Structures/Structure_amalgamator=Amalgamator
 Structures/Structure_amalgamator_bio=Amalgamator bio
@@ -510,13 +510,13 @@ Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
 Structures/Structure_knottmaker4=Enhanced Amalgamator
 Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
 
-Structures/Structure_stargazer=Observatory
-Structures/Structure_stargazer_bio=Observatory bio
+Structures/Structure_stargazer=Stargazer
+Structures/Structure_stargazer_bio=Stargazer bio
 
 Structures/Structure_timemachine=Time Machine
 Structures/Structure_timemachine_bio=This strange and peculiar structure can warp time! Use the slider to slow down or speed up the music!
 
-Structures/Structure_masher=Masher
+Structures/Structure_masher=Grinder
 Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be processed into delicious snacks for the youngsters!
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
@@ -628,25 +628,25 @@ EM_path6_bio=These shavings off a Bihrrc tree have been left here for a while. S
 EM_path7=Overgrown Bubblerite Path
 EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
 
-Candy_path1=Cookie Path
-Candy_path2=Chokkolit Path
-Candy_path3=White Chokkolit Path
+Candy_path1=Cookie Paving
+Candy_path2=Chokkolit Paving
+Candy_path3=White Chokkolit Paving
 Candy_path4=Blue Cotton Candy
 Candy_path5=Pink Cotton Candy
-Candy_path6=Used Gum Path
-Candy_path7=Cookie Crumble Path
-Candy_path8=Sprinkle Surprise Path
+Candy_path6=Used Gum Paving
+Candy_path7=Cookie Crumble Paving
+Candy_path8=Sprinkle Surprise Paving
 
-Desert_path1=Amber Path
-Desert_path2=Relic Path
-Desert_path3=Petrified Folliage Path
+Desert_path1=Amber Paving
+Desert_path2=Relic Paving
+Desert_path3=Petrified Folliage Paving
 Desert_path4=Sand Bricks
 Desert_path5=Buried Sand Bricks
 Desert_path6=Sand Brick
 
-Organ_path1=Red Blood Cell Path
-Organ_path2=White Blood Cell Path
-Organ_path3=Hematogen Bubblerite Path
+Organ_path1=Red Blood Cell Paving
+Organ_path2=White Blood Cell Paving
+Organ_path3=Hematogen Bubblerite Paving
 
 Decoration/Decoration_test=Kee-Tree
 Decoration/Decoration_test_bio=The Kee-Tree is a wooden amalgamation of wood and whimsy! While unable to play itself like the ancient Bass Machine, prophecies say that if played just right by the wind, the Kee-Tree can reveal a song not heard since the dawn of reality…
@@ -675,10 +675,10 @@ Decoration/Decoration_test11_bio=Okay... I've seen a lot of disgusting things fr
 Decoration/Decoration_test12=The King
 Decoration/Decoration_test12_bio=Nobody knows what "The King" is, but everyone collectively agrees that they should stay away from it. It elicits heebee-jeebees to anyone brave enough to look at it in the eye.
 
-Decoration/Decoration_knott=Toozie Pail
-Decoration/Decoration_knott_bio=Mount Knottshurr bio
+Decoration/Decoration_knott=Toozie Paail
+Decoration/Decoration_knott_bio=Toozie Pail bio
 Decoration/Decoration_mors=Fotie Raook
-Decoration/Decoration_mors_bio=Mountain Morsel bio
+Decoration/Decoration_mors_bio=Fotie Raook bio
  
 
 ObstacleMushroomsbio=Removed fungi will be taken far away to wonderful new homes.
@@ -798,7 +798,7 @@ Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
 Decoration/Dog=Dog
 Decoration/Dog_bio=Dog goD.
 
-str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
+str_breeding=You've spliced:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
 str_lvlMax=MAX
 str_noEmpty=Leave blank to shuffle...
@@ -894,8 +894,8 @@ str_popup_designer_save3=Are you sure you want to save? It will cost you nothing
 str_popup_bakery_bake=Are you sure you want to bake <sprite name=food><color=#F318D1><amount></color> for <sprite name=coins><color="yellow"><amount2></color>?
 str_popup_bakery_collectFirst=Collect your previous order first.
 str_popup_breeding=You must select <color="green">two</color> monsters with <color="green">level 4</color> or above.
-str_popup_breeding_repeat=You haven't bred monsters before. Breed something first.
-str_popup_breeding_repeatNoMonster=The monsters you have used to breed are no longer on the island.
+str_popup_breeding_repeat=You haven't spliced monsters before. Splice something first.
+str_popup_breeding_repeatNoMonster=The monsters you have used to spliced are no longer on the island.
 str_popup_shopLimit=You can't have more than <amount> of this.
 str_popup_TimedNotReady=This structure is still functioning. Please wait until its function is complete or speed it up.
 str_teleport_entityNotOnThisIsland=This Monster can't be placed on <color="green"><islandName></color>.
@@ -909,9 +909,9 @@ str_popup_upgrade=Would you like to upgrade this for <amount> <type>?
 str_popup_upgrade_items=Would you like to upgrade this?\nIt will cost you:
 str_popup_unlock=You discovered:\n<name>
 str_popup_notOnThisIsland=This item is not available on this island.
-str_popup_masherNoItemsSelected=You need to select items to mash! If you have none, try collecting some, or crafting some!
-str_popup_masherLimitReached=You have reached the limit of items you can add to the Masher!
-str_popup_stargazerNotRightLevel=The Observatory can not be activated yet. Expand your island first.
+str_popup_masherNoItemsSelected=You need to select items to grind! If you have none, try collecting some, or crafting some!
+str_popup_masherLimitReached=You have reached the limit of items you can add to the Grinder!
+str_popup_stargazerNotRightLevel=The Stargazer can not be activated yet. Expand your island first.
 
 str_popup_mapIsalndNotFinished=This island is still in development! After it is completed, all your progress on this island will be reset. (Play at your own risk)
 
@@ -1005,8 +1005,8 @@ str_class_Magical=Magical
 str_class_Magical-r=Magical(rare)
 str_class_Supernatural=Supernatural
 str_class_Supernatural-r=Supernatural(rare)
-str_class_Celestial=Celestial
-str_class_Celestial-s=Supercelestial
+str_class_Celestial=Deific
+str_class_Celestial-s=Superdeific
 str_class_Lost=Strayed
 str_class_Lost-r=Strayed(rare)
 str_class_Gamma=Gamma
@@ -1063,7 +1063,7 @@ btn_shop_deco_other=Other
 btn_shop_structures=Structures
 btn_shop_currency=Currency
 
-btn_shop_celestials=Celestials
+btn_shop_celestials=Deifics
 btn_shop_babyMomsters=Young Monsters
 
 btn_move=Move
@@ -1102,13 +1102,13 @@ btn_removeMany=Remove Multiple
 btn_apply=Apply
 btn_repeat=Repeat
 btn_collect=Collect
-btn_goals=Goals
+btn_goals=Tasks
 btn_collectAll=Collect all
 btn_ok=OK
 btn_prev=Previous
 btn_next=Next
 btn_stars=Stargazer
-btn_roll=Roll \n<color=#FFA400>25 Starpower
+btn_roll=Roll \n<color=#FFA400>25 Siderials
 btn_book=Collection
 btn_ship=Zeppelin
 btn_unlock=Unlock
@@ -1151,10 +1151,13 @@ goal_teleport=Teleport a <color="green"><entityName></color> to an outer island.
 
 ----Seasons----
 str_season_yay=Festival of Yay
-str_season_spook=Spooktacle
-str_season_love=Season of Love
+str_season_spook=Frightin' Fest
+str_season_love=Adoreday
 str_season_egg=Eggstravaganza
-str_season_summer=Summer Song
+str_season_summer=Heliac Honoring
+
+str_season_pride=Show Your Lights
+
 
 -add aux as needed
 
