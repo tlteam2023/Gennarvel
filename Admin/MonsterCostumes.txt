@@ -100,7 +100,7 @@ Costume str_costume_koodahcne_christmas Ticket=1 Season_yay:Flower_red=10,Fabric
 ;
 Monsters/Monster_noggin_undof
 a0 str_costume_default
-costume_1 str_costume_nogg_candy Ticket=1 Season_spook:Candycorn=7 Frame:SeasonalFrame
+costume_1 str_costume_nogg_candy Ticket=1 Season_spook:Candycorn=7 Season_yay:Candycorn=7 Frame:SeasonalFrame
 ;
 Monsters/Monster_phangler_undof
 a0 str_costume_default
