@@ -1044,7 +1044,7 @@ btn_mailbox=Mailbox
 str_taptocollectrewards=Tap them to collect
 str_mailbox_reward_collected=Collected
 
-str_season_blocked=Available during <seasons>.
+str_season_blocked=Available during\n<seasons>.
 str_season_blocked_costume=Can be crafted for items during\n<seasons>.
 
 
