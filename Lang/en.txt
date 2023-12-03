@@ -1047,8 +1047,8 @@ str_mailbox_reward_collected=Collected
 str_season_blocked=Available during\n<seasons>.
 str_season_unblocked=Available right now!
 
-str_season_blocked_costume=Can be crafted for items during\n<seasons>.
-str_season_unblocked_costume=Can be crafted for items right now!
+str_season_blocked_costume=Can be crafted with items during\n<seasons>.
+str_season_unblocked_costume=Can be crafted with items right now!
 
 
 str_setting=Settings
