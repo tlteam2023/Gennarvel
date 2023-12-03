@@ -675,9 +675,9 @@ Decoration/Decoration_test11_bio=Okay... I've seen a lot of disgusting things fr
 Decoration/Decoration_test12=The King
 Decoration/Decoration_test12_bio=Nobody knows what "The King" is, but everyone collectively agrees that they should stay away from it. It elicits heebee-jeebees to anyone brave enough to look at it in the eye.
 
-Decoration/Decoration_knott=Mount Knottshurr
+Decoration/Decoration_knott=Toozie Pail
 Decoration/Decoration_knott_bio=Mount Knottshurr bio
-Decoration/Decoration_mors=Mountain Morsel
+Decoration/Decoration_mors=Fotie Raook
 Decoration/Decoration_mors_bio=Mountain Morsel bio
  
 
