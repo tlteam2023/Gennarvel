@@ -1479,9 +1479,9 @@ Monsters/Monster_keytrus_bio=Данные отсутствуют. Приходи
 Monsters/Monster_keytrus_rare=Редкий Клавельсин
 Monsters/Monster_keytrus_rare_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_brasscuit=Тубаченье
+Monsters/Monster_brasscuit=Трубаченье
 Monsters/Monster_brasscuit_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_brasscuit_rare=Редкое Тубаченье
+Monsters/Monster_brasscuit_rare=Редкое Трубаченье
 Monsters/Monster_brasscuit_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_claramel=Кларамель
