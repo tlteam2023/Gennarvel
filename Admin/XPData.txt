@@ -1,7 +1,7 @@
 0 0
 1 100
 2 100 Decoration/Decoration_test,Decoration/Decoration_test2
-3 200 Structures/Structure_bakery
+3 200
 4 500 ISL:Candy,Structures/Structure_breeding,Monsters/Monster_dandidoo,Monsters/Monster_quibble,Monsters/Monster_oaktopus,Monsters/Monster_spunge
 5 2000 Decoration/Decoration_test3,Decoration/Decoration_test4,Decoration/Decoration_test5,Decoration/Decoration_test6,Decoration/Decoration_test7,Decoration/Decoration_test8,Decoration/Decoration_test9,Decoration/Decoration_test10,Decoration/Decoration_test11,Decoration/Decoration_test12
 6 5000 Monsters/Monster_flootfly,Monsters/Monster_likho,Monsters/Monster_wadee,Monsters/Monster_varrow,Monsters/Monster_choral,Monsters/Monster_dulsylvan,Monsters/Monster_banno,Monsters/Monster_stoopa,Monsters/Monster_bridgit,Monsters/Monster_phangler,Monsters/Monster_frondley
