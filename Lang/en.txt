@@ -824,7 +824,7 @@ Monsters/Monster_willisp=Willisp
 Monsters/Monster_willisp_bio=When the sands now known as the Archaic Dunes were first found, they were desolate as could be. However, this was soon to change. The lost Titanling Willisp found itself here, in an endless sea of copper sand. Using its potent magic, it created sand sculptures of monsters,and pulled monster spirits from across space and time to inbue them into the sandstone forms. Unfortunately, it fell short of brining its companions to life, but with the power of Enchanted Dew... who knows what YOU could do...
 
 diamonds - <color=#4EFFF5>
-rubies - <color=#FF1E00>
+rubies - <color=#E72060>
 coins - <color="yellow">
 food - <color=#F318D1>
 
@@ -879,8 +879,8 @@ str_limitedTimeTimer=Available for:\n<time>
 str_warning=Hold up!
 str_tutorial=Tutorial
 str_popup_sellEgg=Are you sure you want to sell this egg for <sprite name=coins><color="yellow"><amount>?
-str_popup_speedUp=Are you sure you want to speed up the proccess for <sprite name=diamonds><color=#FF1E00><amount>?
-str_popup_notEnough_diamonds=You don't have enough <color=#FF1E00>Rubies.
+str_popup_speedUp=Are you sure you want to speed up the proccess for <sprite name=diamonds><color=#E72060><amount>?
+str_popup_notEnough_diamonds=You don't have enough <color=#E72060>Rubies.
 str_popup_notEnough_coins=You don't have enough <color="yellow">Coins.
 str_popup_notEnough_food=You don't have enough <color=#F318D1>Food.
 str_popup_notEnough_foodB=You don't have enough <color=#CDFF3D>Baby food.
@@ -1021,14 +1021,14 @@ str_class_Legendary=Legendary
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter2=Zeppelin
-str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#FF1E00><sprite name=diamonds><amount></color>?
+str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#E72060><sprite name=diamonds><amount></color>?
 str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>
 str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
 str_popup_knottmaker_locked=This item is unavailable. Upgrade your Amalgamator to unlock it.
 str_popup_knottmakerNotSelected=Nothing is selected.
-str_popup_knottmaker_fail=Your crafting failed! But items you used were converted to rubies.\nYou get <sprite name=diamonds><color=#FF1E00><amount></color>
+str_popup_knottmaker_fail=Your crafting failed! But items you used were converted to rubies.\nYou get <sprite name=diamonds><color=#E72060><amount></color>
 str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some of the items back!
 str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
 
