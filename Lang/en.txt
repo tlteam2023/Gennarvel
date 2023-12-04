@@ -484,7 +484,7 @@ Structures/Structure_castle_undof6=Extravagant Hotel
 Structures/Structure_castle_undof6_bio=This state of the art domicile goes way overboard when it comes to spoiling the monsters...  Personal assistants to wait on them hand and foot (at least those that have hands and feet), the spiffiest sound systems on the monster market...  They've got it made in the shade.
 
 Structures/Structure_bakery=Cooker
-Structures/Structure_bakery_bio=(Only available on outer isalnds)\nCooker bio
+Structures/Structure_bakery_bio=(Only available on Outer Islands!)\nCooker bio
 
 Structures/Structure_amalgamator=Amalgamator
 Structures/Structure_amalgamator_bio=Amalgamator bio
