@@ -1121,7 +1121,7 @@ Monsters/Monster_cherubble_young_bio=Данные отсутствуют. При
 
 Monsters/Monster_knife=Банти
 Monsters/Monster_knife_bio=Данные отсутствуют. Приходите позже. 
-Monsters/Monster_knife_rare=Редкий Ножик
+Monsters/Monster_knife_rare=Редкая Банти
 Monsters/Monster_knife_rare_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_cataliszt=Котолизатор
