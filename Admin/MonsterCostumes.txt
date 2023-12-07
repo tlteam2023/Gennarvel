@@ -108,7 +108,7 @@ costume_1 str_costume_phang_candy Ticket=1 Season_yay:FBerries=6 Frame:SeasonalF
 ;
 Monsters/Monster_thrumble_undof
 a0 str_costume_default
-Costume0 str_costume_thrumble_christmas Ticket=1 Season_yay:Berries=6,Flower_red=10,Flower_blue=10,Fabric=10 Frame:SeasonalFrame
+Costume_christmas str_costume_thrumble_christmas Ticket=1 Season_yay:Berries=6,Flower_red=10,Flower_blue=10,Fabric=10 Frame:SeasonalFrame
 ;
 Monsters/Monster_toejammer_undof
 a0 str_costume_default
