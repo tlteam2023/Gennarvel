@@ -826,7 +826,7 @@ Monsters/Monster_willisp_bio=When the sands now known as the Archaic Dunes were 
 diamonds - <color=#4EFFF5>
 rubies - <color=#E72060>
 coins - <color="yellow">
-food - <color=#F318D1>
+food - <color=#FF9000>
 
 str_currency_coins=Coins
 str_currency_diamonds=Rubies
@@ -882,7 +882,7 @@ str_popup_sellEgg=Are you sure you want to sell this egg for <sprite name=coins>
 str_popup_speedUp=Are you sure you want to speed up the proccess for <sprite name=diamonds><color=#E72060><amount>?
 str_popup_notEnough_diamonds=You don't have enough <color=#E72060>Rubies.
 str_popup_notEnough_coins=You don't have enough <color="yellow">Coins.
-str_popup_notEnough_food=You don't have enough <color=#F318D1>Food.
+str_popup_notEnough_food=You don't have enough <color=#FF9000>Food.
 str_popup_notEnough_foodB=You don't have enough <color=#CDFF3D>Baby food.
 str_popup_notEnough_stars=You don't have enough <color=#FFA400>Starpower.
 str_popup_notEnough=You don't have enough <color=green>Items</color>.
@@ -891,7 +891,7 @@ str_popup_designer_cancel=Are you sure you want to cancel all the changes made i
 str_popup_designer_save1=Are you sure you want to save? It will cost <sprite name=coins><color="yellow"><amount>
 str_popup_designer_save2=Are you sure you want to save? You will get <sprite name=coins><color="yellow"><amount>
 str_popup_designer_save3=Are you sure you want to save? It will cost you nothing.
-str_popup_bakery_bake=Are you sure you want to bake <sprite name=food><color=#F318D1><amount></color> for <sprite name=coins><color="yellow"><amount2></color>?
+str_popup_bakery_bake=Are you sure you want to bake <sprite name=food><color=#FF9000><amount></color> for <sprite name=coins><color="yellow"><amount2></color>?
 str_popup_bakery_collectFirst=Collect your previous order first.
 str_popup_breeding=You must select <color="green">two</color> monsters with <color="green">level 4</color> or above.
 str_popup_breeding_repeat=You haven't spliced monsters before. Splice something first.
