@@ -136,7 +136,7 @@ christmas str_costume_kanya_christmas Ticket=1 Season_yay:diamonds=20 Frame:Seas
 ;
 Monsters/Monster_fwog_undof
 a0 str_costume_default
-costume_1 str_costume_fwog_halloween Ticket=1 Season_spook:diamonds=20 Frame:SeasonalFrame
+costume0 str_costume_fwog_bricks Flower_red=8,Rock=2
 ;
 Monsters/Monster_fwog_undof_rare
 a0 str_costume_default
