@@ -355,7 +355,7 @@ Monsters/Monster_sooza_rare_bio=Данные отсутствуют. Прихо�
 Monsters/Monster_sooza_young=Юная Суза
 Monsters/Monster_sooza_young_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_thrumble=Черепакдова
+Monsters/Monster_thrumble=Черепокедова
 Monsters/Monster_thrumble_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_thrumble_rare=Редкий Напевец
 Monsters/Monster_thrumble_rare_bio=Данные отсутствуют. Приходите позже.
