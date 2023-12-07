@@ -560,7 +560,7 @@ Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt li
 Monsters/Monster_fwog_undof=Fwog
 Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.
 
-Monsters/Monster_thrumble_undof=Thrumble
+Monsters/Monster_thrumble_undof=Coodaloo
 Monsters/Monster_thrumble_undof_bio=Wide-mouthed and keen snackers, Thrumbles are prone to swallowing treats whole. Their elongated gullets can squash and stretch to provide said treats with ample time to be pulverized by the reverberations of this happy-go-lucky hummer's signature thrumming. When thrumming on an empty stomach, bubbling pockets of air can expand and prompt a sudden flurry of giggles!
 
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
