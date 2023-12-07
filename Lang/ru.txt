@@ -105,7 +105,7 @@ Monsters/Monster_furcorn_rare_bio=Данные отсутствуют. Прих�
 Monsters/Monster_furcorn_young=Юный Зерномех
 Monsters/Monster_furcorn_young_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_fwog=Лягашка
+Monsters/Monster_fwog=Жабень
 Monsters/Monster_fwog_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_fwog_rare=Редкая Лягашка
 Monsters/Monster_fwog_rare_bio=Данные отсутствуют. Приходите позже.

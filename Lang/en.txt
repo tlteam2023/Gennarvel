@@ -557,7 +557,7 @@ Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in
 Monsters/Monster_noggin_rare_undof=Rare Burrythm
 Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
 
-Monsters/Monster_fwog_undof=Fwog
+Monsters/Monster_fwog_undof=Stoad
 Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.
 
 Monsters/Monster_thrumble_undof=Coodaloo
