@@ -1222,7 +1222,7 @@ M'duzzozoa
 Metroyd
 Awkwa
 Pudl
-Pudl-slyme 
+Pudl-slyme
 ;
 Monsters/Monster_toejammer_rare
 Althaya
