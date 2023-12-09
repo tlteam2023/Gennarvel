@@ -1481,6 +1481,9 @@ Furrnowe
 Monsters/Monster_kayna_rare_undof,Monsters/Monster_kayna_rare
 Anyak
 Embyr
+Ekkawick
+Azzoo
+Cauldfayr
 ;
 Monsters/Monster_noggin_young,Monsters/Monster_noggin,Monsters/Monster_noggin_undof
 Nognin
