@@ -1215,7 +1215,7 @@ str_costume_leshy_gentleman=Timber Tuxedo
 
 str_costume_tort_christmas=Fir Icing
 
-str_costume_stogg_christmas=Tianshan
+str_costume_stogg_christmas=Vesture Vice-Versa
 
 str_costume_cookie_christmas=Dapper Bow
 
@@ -1244,7 +1244,8 @@ str_costume_kanya_rare_christmas=Krampus Ponchloac
 
 str_costume_kanya_christmas=Fir Freshener
 
-str_costume_fwog_halloween=All Squashed up
+str_costume_fwog_bricks=Brown Bricks
+str_costume_fwog_halloween=Pretty Pattypan
 
 str_costume_fwog_rare_christmas=Jingle of the Yay
 
