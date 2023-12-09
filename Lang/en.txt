@@ -1214,6 +1214,7 @@ str_costume_leshy_mario=Plumber of the Woods
 str_costume_leshy_gentleman=Timber Tuxedo
 
 str_costume_tort_christmas=Fir Icing
+str_costume_tort_castle=Napoleon Ambitions
 
 str_costume_stogg_christmas=Vesture Vice-Versa
 

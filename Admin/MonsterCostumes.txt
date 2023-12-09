@@ -71,6 +71,7 @@ costume_2 str_costume_leshy_gentleman Catfur=10,Fabric=4
 ;
 Monsters/Monster_sprinklate
 a0 str_costume_default
+Costume1 str_costume_tort_castle Rock=10,Fabric=3,Flower_red=3,Log=1
 Christmas_1 str_costume_tort_christmas Ticket=1 Season_yay:Seaweed=5,Flower_blue=7,Flower_yellow=7,Candycorn=4,diamonds=2 Frame:SeasonalFrame
 ;
 Monsters/Monster_stogg_undof
