@@ -76,7 +76,7 @@ Christmas_1 str_costume_tort_christmas Ticket=1 Season_yay:Seaweed=5,Flower_blue
 ;
 Monsters/Monster_stogg_undof
 a0 str_costume_default
-Costume1 str_costume_stogg_christmas Ticket=1 Season_yay:Flower_blue=7,Flower_yellow=7,Foam=7 Frame:SeasonalFrame
+Costume1 str_costume_stogg_christmas Ticket=1 Season_yay:Flower_red=7,Fabric=7,Wool=3,diamonds=2 Frame:SeasonalFrame
 ;
 Monsters/Monster_brasscuit
 a0 str_costume_default
@@ -105,7 +105,7 @@ costume_1 str_costume_nogg_candy Ticket=1 Season_spook:Peppermint=7,Flower_red=4
 ;
 Monsters/Monster_phangler_undof
 a0 str_costume_default
-costume_1 str_costume_phang_candy Ticket=1 Season_yay:FBerries=6 Frame:SeasonalFrame
+costume_1 str_costume_phang_candy Ticket=1 Season_yay:Flower_yellow=3,Flower_blue=3,Fabric=7,Wool=3 Frame:SeasonalFrame
 ;
 Monsters/Monster_thrumble_undof
 a0 str_costume_default
