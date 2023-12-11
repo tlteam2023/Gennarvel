@@ -1011,11 +1011,11 @@ Monsters/Monster_viveine_rare_bio=Данные отсутствуют. Прих�
 Monsters/Monster_viveine_young=Юная Живербена
 Monsters/Monster_viveine_young_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_jamboree=Празднень
+Monsters/Monster_jamboree=Глаз-урь
 Monsters/Monster_jamboree_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_jamboree_rare=Редкий Празднень
+Monsters/Monster_jamboree_rare=Редкая Глаз-урь
 Monsters/Monster_jamboree_rare_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_jamboree_young=Юный Празднень
+Monsters/Monster_jamboree_young=Юная Глаз-урь
 Monsters/Monster_jamboree_young_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_jamboree_undof=<ref>Monsters/Monster_jamboree
 Monsters/Monster_jamboree_undof_bio=Данные отсутствуют. Приходите позже.
