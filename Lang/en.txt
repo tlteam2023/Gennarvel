@@ -1227,13 +1227,13 @@ str_costume_keytrus_deluxe=Signore Pomodoro
 
 str_costume_keytrus_rare_sucker=Sucker for Yay
 
-str_costume_marshflamo_christmas=Yool's Little Helper
+str_costume_marshflamo_christmas=(Yool)'s Little Helper
 
 str_costume_koodahcne_christmas=Sweeter
 
 str_costume_nogg_candy=Sucrose Helm
 
-str_costume_phang_candy=Mistle-Vox
+str_costume_phang_candy=Elf Hat
 
 str_costume_thrumble_christmas=PomPom Fur Outfit
 
