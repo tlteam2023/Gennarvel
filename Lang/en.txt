@@ -1265,6 +1265,7 @@ str_costume_potGM_christmas=Brotherhood of Stars
 str_setting_credits=Credits
 str_setting_spacialBlend=3D Sound
 
+str_credits_msm=Inspired by:
 str_credits_main=T.L.L. by:
 str_credits_execProd=Support:
 str_credits_art=Art:

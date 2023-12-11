@@ -1,3 +1,6 @@
+<Title>str_credits_msm
+My Singing Monsters
+
 <Title>str_credits_main
 Raw Zebra
 
