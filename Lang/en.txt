@@ -1241,7 +1241,7 @@ str_costume_tj_socks=Training Attire
 
 str_costume_knife_christmas=Cozy Cover
 
-str_costume_kanya_rare_christmas=Krampus Ponchloac
+str_costume_kanya_rare_azu_broom=Ekka-Broom
 
 str_costume_kanya_christmas=Fir Freshener
 

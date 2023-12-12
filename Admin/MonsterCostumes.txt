@@ -129,7 +129,7 @@ christmas str_costume_jawbreaker_rare_christmas Ticket=1 Season_yay:diamonds=10 
 ;
 Monsters/Monster_kayna_rare_undof
 a0 str_costume_default
-christmas str_costume_kanya_rare_christmas Ticket=1 Season_yay:Flower_red=10,Flower_blue=10,Fabric=10 Frame:SeasonalFrame
+costume1 str_costume_kanya_rare_azu_broom Log=5
 ;
 Monsters/Monster_kayna_undof
 a0 str_costume_default
