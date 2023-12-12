@@ -232,22 +232,8 @@ Lisquid
 Glogble
 ;
 Monsters/Monster_phangler,Monsters/Monster_phangler_young,Monsters/Monster_phangler_undof
-Anat
-Douglas
-Finatra
-Finzo
-Gillgul
-Glorp
-Irving
-Mortimer
-Ottotuna
-Tallulah
-Tuna
-Mako
-Naynay
-Naile
-Chipp
-Gillberto
+Phangless
+Relgnahp
 ;
 Monsters/Monster_phangler_rare
 Saulmon Gud
