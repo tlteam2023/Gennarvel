@@ -211,37 +211,37 @@ Monsters/Monster_gumtromp coins=25000 candy 21600 7 coins=4@60@coins=57 Lost gum
 Monsters/Monster_gumtromp_rare diamonds=225 candy 28800 14 coins=8@60@coins=100 Lost-r gumtromp_rare,gumtromp_rare 0 0
 
 Monsters/Monster_keytrus diamonds=300 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus,keytrus 0 0
-Monsters/Monster_keytrus_rare diamonds=400 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus_rare,keytrus_rare 0 0
+Monsters/Monster_keytrus_rare diamonds=400 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost-r keytrus_rare,keytrus_rare 0 0
 
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
-Monsters/Monster_koodahcane_rare diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane_rare,koodahcane_rare 0 0
+Monsters/Monster_koodahcane_rare diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost-r koodahcane_rare,koodahcane_rare 0 0
 
 Monsters/Monster_marshflamo diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
-Monsters/Monster_marshflamo_rare diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo_rare,marshflamo_rare 0 0
+Monsters/Monster_marshflamo_rare diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost-r marshflamo_rare,marshflamo_rare 0 0
 
 Monsters/Monster_brasscuit diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit,brasscuit 0 0
-Monsters/Monster_brasscuit_rare diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit_rare,brasscuit_rare 0 0
+Monsters/Monster_brasscuit_rare diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost-r brasscuit_rare,brasscuit_rare 0 0
 
 Monsters/Monster_gobstomper diamonds=150 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper,gobstomper 0 0
-Monsters/Monster_gobstomper_rare diamonds=150 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper_rare,gobstomper_rare 0 0
+Monsters/Monster_gobstomper_rare diamonds=150 earth-o@candy 32400 16 coins=7@60@coins=481 Lost-r gobstomper_rare,gobstomper_rare 0 0
 
 Monsters/Monster_claramel diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel,claramel 0 0
-Monsters/Monster_claramel_rare diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel_rare,claramel_rare 0 0
+Monsters/Monster_claramel_rare diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost-r claramel_rare,claramel_rare 0 0
 
 Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
-Monsters/Monster_sprinklate_rare diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate_rare,sprinklate_rare 0 0
+Monsters/Monster_sprinklate_rare diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost-r sprinklate_rare,sprinklate_rare 0 0
 
 Monsters/Monster_jamboree_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
-Monsters/Monster_jamboree_rare_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree_rare-o,jamboree_rare-o 0 0
+Monsters/Monster_jamboree_rare_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal-r jamboree_rare-o,jamboree_rare-o 0 0
 
 Monsters/Monster_ghazt_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
-Monsters/Monster_ghazt_rare_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt_rare-o,ghazt_rare-o 0 0
+Monsters/Monster_ghazt_rare_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal-r ghazt_rare-o,ghazt_rare-o 0 0
 
 Monsters/Monster_jobo Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
 Monsters/Monster_treble Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary treble,treble 0 0
 
 Monsters/Monster_knife diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife,knife 0 0
-Monsters/Monster_knife_rare diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 Mythical knife_rare,knife_rare 0 0
+Monsters/Monster_knife_rare diamonds=500 mythical-o 65108 35 coins=10@120@coins=120 Mythical-r knife_rare,knife_rare 0 0
 
 Monsters/Monster_cataliszt diamonds=500 dream 65108 35 coins=10@120@coins=120 Mythical cataliszt,cataliszt 0 5
 

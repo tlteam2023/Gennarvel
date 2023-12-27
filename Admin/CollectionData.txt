@@ -152,6 +152,7 @@ Monsters/Monster_claramel
 Monsters/Monster_brasscuit
 Monsters/Monster_sprinklate
 Monsters/Monster_jamboree_undof
+Monsters/Monster_jamboree_rare_undof
 Monsters/Monster_ghazt_undof
 Monsters/Monster_dipster_1
 Monsters/Monster_dipster_2
